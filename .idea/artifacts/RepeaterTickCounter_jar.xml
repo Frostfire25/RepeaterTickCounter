@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RepeaterTickCounter:jar">
+    <output-path>$USER_HOME$/Desktop/LocalHost Server/plugins</output-path>
+    <root id="archive" name="RepeaterTickCounter.jar">
+      <element id="module-output" name="RepeaterTickCounter" />
+    </root>
+  </artifact>
+</component>

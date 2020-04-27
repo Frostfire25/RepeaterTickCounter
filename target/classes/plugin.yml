@@ -1,0 +1,5 @@
+name: RepeaterTickCounter
+version: 1.0-SNAPSHOT
+main: co.antiqu.repeatertickcounter.RepeaterTickCounter
+api-version: 1.13
+authors: [AlexElg]

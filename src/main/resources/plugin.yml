@@ -1,0 +1,5 @@
+name: RepeaterTickCounter
+version: ${project.version}
+main: co.antiqu.repeatertickcounter.RepeaterTickCounter
+api-version: 1.13
+authors: [AlexElg]
